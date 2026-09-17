@@ -24,50 +24,6 @@ I have **sound knowledge of Selenium with Java and Python, and Playwright with T
 
 Through **TechWithSasikiran**, I share practical lessons and help beginners build confidence in testing and automation.
 
-## 💼 Professional Experience
-
-<p align="center"><b>QA Test Engineer</b><br/>Aptsol Global Tech Private Limited</p>
-<p align="center">🛒 Budget Basket &nbsp; • &nbsp; 👥 HR &amp; Payroll Application</p>
-
-### 🛒 01 / Budget Basket
-
-<img src="https://img.shields.io/badge/PROJECT_01-BUDGET_BASKET-7C3AED?style=for-the-badge" alt="Project 01 — Budget Basket" />
-
-**QA Test Engineer · Aptsol Global Tech Private Limited**
-
-My primary project in my QA portfolio.
-
-**Testing focus — proposed wording to confirm against my project work:**
-
-- **Requirements & coverage:** Map expected application behavior to clear test scenarios.
-- **Functional validation:** Check core user journeys against the agreed requirements.
-- **Negative & boundary testing:** Explore invalid inputs, missing values, and edge cases.
-- **Regression coverage:** Identify repeatable checks for existing functionality after changes.
-- **Defect documentation:** Capture reproduction steps, expected results, actual results, and evidence.
-- **Automation opportunities:** Select stable, repeatable scenarios suitable for automated testing.
-
-<!-- Replace the proposed focus wording with confirmed contributions before publishing. Add only the tools actually used on Budget Basket. -->
-
----
-
-### 👥 02 / HR & Payroll Application
-
-<img src="https://img.shields.io/badge/PROJECT_02-HR_%26_PAYROLL-0891B2?style=for-the-badge" alt="Project 02 — HR and Payroll" />
-
-**QA Test Engineer · Aptsol Global Tech Private Limited**
-
-Worked on employee and dependent management, demographic updates, employee termination, and inquiry and reporting workflows.
-
-**Key contributions:**
-
-- **Requirements & coverage:** Designed functional and regression test cases for HR business workflows.
-- **UI automation:** Developed Selenium tests with Java, TestNG, and Maven.
-- **Framework structure:** Organized reusable automation code with Page Object Model and PageFactory.
-- **API & data validation:** Tested APIs with REST Assured and checked backend data with SQL.
-- **Regression execution:** Supported Jenkins runs and investigated failures with Extent Reports and Log4j.
-- **Defect collaboration:** Worked with developers to report, track, retest, and verify defects.
-
----
 
 ## 🎭 Automation Toolkit
 
